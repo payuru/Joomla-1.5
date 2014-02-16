@@ -60,7 +60,7 @@ function show_configuration() {
 
 	<div>Ссылка LiveUpdate :
 			<input type="text" name="PAYU_LU_URL" value="<?= PAYU_LU_URL ?>" size="60" />
-			<span>по умолчанию : https://secure.payu.ua/order/lu.php</span>
+			<span>по умолчанию : https://secure.payu.ru/order/lu.php</span>
 	</div>
 
 	<div>Валюта мерчанта :

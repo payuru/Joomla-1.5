@@ -4,8 +4,8 @@ if( !defined( '_VALID_MOS' ) && !defined( '_JEXEC' ) ) die( 'Direct Access to '.
 define ('PAYU_MERCHANT', '');
 define ('PAYU_SECRET_KEY', 'xxxxxxxxxxxx');
 define ('PAYU_DEBUG', '1');
-define ('PAYU_LU_URL', 'https://secure.payu.ua/order/lu.php');
-define ('PAYU_CURRENCY', 'UAH');
+define ('PAYU_LU_URL', 'https://secure.payu.ru/order/lu.php');
+define ('PAYU_CURRENCY', 'RUB');
 define ('PAYU_BACK_REF', '');
 define ('PAYU_VAT', '0');
 define ('PAYU_LANGUAGE', 'RU');
